@@ -1,0 +1,12 @@
+.banner
+{
+    width: 100%;
+    height: 80vh;
+    background-image: url(../imagens/ilustracao-de-floresta-de-fundo-selvagem-com-arvores-de-desenho-animado-e-cenario-de-selva-natureza-desenho-fantasia-f_629704-4.avif);
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
